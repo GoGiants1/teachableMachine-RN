@@ -9,8 +9,10 @@
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.12.1",
+    "@teachablemachine/image": "^0.8.4",
     "@tensorflow-models/blazeface": "0.0.5",
-    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow-models/handpose": "^0.0.7",
+    "@tensorflow-models/mobilenet": "^2.1.0",
     "@tensorflow/tfjs": "^2.6.0",
     "@tensorflow/tfjs-react-native": "^0.4.0",
     "expo": "~39.0.2",
@@ -24,6 +26,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
     "react-native-elements": "^3.0.0-alpha.1",
     "react-native-fs": "^2.16.6",
+    "react-native-navigation": "^7.18.1",
     "react-native-svg": "^12.1.0",
     "react-native-web": "~0.13.12"
   },
